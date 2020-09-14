@@ -2,3 +2,7 @@
 .vs/
 
 .idea/
+
+test/obj/
+
+src/obj/
